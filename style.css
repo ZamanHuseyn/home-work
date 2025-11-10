@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+.head{
+    background-color: aqua;
+    width: 365px;
+    height: 93px;
+    margin-top: 91px;
+    margin-left: 124px;
+
+}
+.yazi{
+    background-color: blueviolet;
+    height: 374px;
+    width: 662px;
+    margin-top: 202px;
+    margin-left: 124px;
+}
